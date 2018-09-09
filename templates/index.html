@@ -1,0 +1,25 @@
+{% extends 'base.html' %} 
+{% block content %}
+
+
+<!-- Welcome and instructions -->
+<div class="container-fluid">
+    <h1>This IS RuPaul's Best Friend Race!</h1><br>
+    <p>Welcome to the first season of RuPaul's Best Friend Race, where we will test your RPDR knowledge to crown the next queen.
+    <!-- Add instructions, ie. lives, how to win --> </p>
+    
+    <p>But first things first, what's your stage name?</p>
+    
+    <!-- Boostrap form to submit username -->
+    <form method="POST" class="form-inline">
+        <div class="form-group mx-sm-3 mb-2">
+            <label for="player_name" class="sr-only">Name</label>
+            <input type="text" class="form-control" id="player_name" placeholder="Enter name" name="player_name">
+        </div>
+        <button type="submit" class="btn btn-primary mb-2">Let's go!</button>
+    </form>
+</div>
+
+
+
+{% endblock %}

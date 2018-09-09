@@ -1,46 +1,30 @@
+# RuPaul's Best Friend Race: a RuPaul's Drag Race themed quiz app.
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+This is my third project - an application written in Flask, with the purpose of 
+demonstrating my practical Python skills.
+
+commit 1 - initial commit.
+commit 2 - base template added, index.html started with basic username 
+            submission leading to customised quiz.html
 
 
-Welcome to your Python project on Cloud9 IDE!
 
-To show what Cloud9 can do, we added a basic sample web application to this
-workspace, from the excellent Python tutorial _Learning Python the Hard Way_.
-We skipped ahead straight to example 50 which teaches how to build a web
-application.
+Testing
 
-If you've never looked at the tutorial or are interested in learning Python,
-go check it out. It's a great hands-on way for learning all about programming
-in Python.
+My first test was to ensure write_player_name functioned correctly. I did this 
+with a manual test, by printing {{ player_name }} on the quiz.html page. This
+displayed the name correctly, and I also checked in data/players_names.txt that
+the names I had submitted had been saved.
 
-* _Learning Python The Hard Way_, online version and videos: 
-http://learnpythonthehardway.org/book/
 
-* Full book: http://learnpythonthehardway.org
 
-## Starting from the Terminal
+Technologies Used
 
-To try the example application, type the following in the terminal:
+I decided to use the framework of Bootstrap to build a responsive and visually
+appealing app - https://getbootstrap.com - and I will maintain a division
+between the Bootstrap code and my code by creating a library of used Boostrap
+code.
 
-```
-cd ex50
-python bin/app.py
-```
+Python
 
-Alternatively, open the file in ex50/bin and click the green Run
-button!
-
-## Configuration
-
-You can configure your Python version and `PYTHONPATH` used in
-Cloud9 > Preferences > Project Settings > Language Support.
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
-To watch some training videos, visit http://www.youtube.com/user/c9ide.
+Flask
