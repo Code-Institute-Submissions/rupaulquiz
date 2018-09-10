@@ -1,0 +1,26 @@
+/* Layout */
+
+body {
+    background-color: black;
+    color: white;
+}
+
+form {
+    color: white;
+}
+
+.banner {
+    margin: auto;
+    text-align: center;
+    padding: 2%;
+}
+
+.htmlimage {
+    margin: auto;
+    text-align: center;
+}
+
+.instructions {
+    margin: auto;
+    padding: 2%;
+}
