@@ -31,6 +31,6 @@ form {
 
 /* Quiz.html */
 
-/*.onlineusers {*/
-    
-/*}*/
+.wronganswers {
+    overflow: auto;
+}

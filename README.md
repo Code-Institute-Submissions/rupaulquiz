@@ -10,6 +10,7 @@ commit 3 - Customised index.html, added style.css.
 commit 4 - Loaded questions data, and functions to compare user input and save incorrect answers.
             Also added online player functionality.
 commit 5 - Tested previous commit functions. Customised quiz.html.
+commit 6 - Added function to remove duplicates. 
 
 
 Testing
@@ -25,8 +26,10 @@ when I was happy with the design.
 
 I manually tested the functionality added in commit 4, by adding incorrect
 answers to the questions, and checking that these and the user name I chose
-were added to the relevant .txt files in the data folder. 
-
+were added to the relevant .txt files in the data folder. For the  
+duplicate function added in commit 5, I added different names on the page
+and printed the no_duplicates_online_list, and also checked that the names
+were still added to online_players.txt.
 
 
 Technologies Used
