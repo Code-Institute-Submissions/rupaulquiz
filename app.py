@@ -7,20 +7,23 @@ app = Flask(__name__)
 
 
 def write_to_file(file, name):
+    """Writes data to text files"""
     with open(file, "a") as player_list:
         player_list.writelines(name)
         
 
-def add_incorrect_answer(player_name, incorrect_answer):
-    write_to_file("data/incorrect_answers.txt", "({0}) - {1}\n".format(
-            player_name, incorrect_answer))
+def add_incorrect_answer(player_name, question, incorrect_answer):
+    """Adds incorrect answer to incorrect_answers.txt"""
+    write_to_file("data/incorrect_answers.txt", "{0} thinks the answer to \"{1}\" is: {2}! \n".format(
+            player_name, question, incorrect_answer))
             
-
-def get_all_incorrect_answers():
-    incorrect_answers = []
-    with open("data/incorrect_answers.txt", "r") as incorrect_answers:
-        incorrect_answers = [row for row in incorrect_answers if len(row.strip()) > 0]
-    return incorrect_answers
+            
+def get_all_data(file, list):
+    """Collects data from .txt files"""
+    list = []
+    with open(file, "r") as list:
+        list = [row for row in list if len(row.strip()) > 0]
+    return list
         
     
 @app.route('/', methods=["GET", "POST"])
@@ -56,13 +59,15 @@ def load(player_name):
         if questions[question_index]["answer"] == player_response:
             question_index += 1
         else:
-            add_incorrect_answer(player_name, player_response +"\n")
+            add_incorrect_answer(player_name, 
+                                questions[question_index]["question"], 
+                                player_response + "\n" )
             
-    incorrect_answers = get_all_incorrect_answers()
+            
+    incorrect_answers = get_all_data("data/incorrect_answers.txt", list)
+    online_players = get_all_data("data/online_players.txt", list)
     
-    online_players_list = open("data/online_players.txt")
-    online_players = [row for row in online_players_list if len(row.strip()) > 0]
-    online_players_list.close()
+    
         
     return render_template("quiz.html", player_name=player_name, 
                             incorrect_answers=incorrect_answers, 

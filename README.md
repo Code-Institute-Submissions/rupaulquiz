@@ -9,6 +9,7 @@ commit 2 - Base template added, index.html started with basic username.
 commit 3 - Customised index.html, added style.css.
 commit 4 - Loaded questions data, and functions to compare user input and save incorrect answers.
             Also added online player functionality.
+commit 5 - Tested previous commit functions. Customised quiz.html.
 
 
 Testing
@@ -21,6 +22,10 @@ the names I had submitted had been saved.
 When testing the custom CSS, I wrapped each div in different coloured margins,
 so I could see exactly what happened at each screen size. These were removed
 when I was happy with the design.
+
+I manually tested the functionality added in commit 4, by adding incorrect
+answers to the questions, and checking that these and the user name I chose
+were added to the relevant .txt files in the data folder. 
 
 
 

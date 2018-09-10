@@ -1,0 +1,20 @@
+(Sarah) - 1002
+
+(Sarah) - 1002
+
+(Jones) - s
+ - How old is RuPaul? 
+(Jones) - d
+ - How old is RuPaul? 
+(Jones) - How old is RuPaul? - l
+ 
+Jones thinks the answer to How old is RuPaul? is l
+! 
+Sarah thinks the answer to "How old is RuPaul?" is s
+! 
+J thinks the answer to "How old is RuPaul?" is "msms
+"! 
+J thinks the answer to "How old is RuPaul?" is: mdmd
+\! 
+J thinks the answer to "How old is RuPaul?" is: x
+\! 

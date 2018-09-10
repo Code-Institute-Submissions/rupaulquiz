@@ -1,10 +1,38 @@
 {% extends 'base.html' %} 
 {% block content %}
 
-<div class="container-fluid">
-    <h1>Hello {{ player_name }}</h1>
+<!–– Welcome with username -->
+<div class="col-sm-2">
+    HIEEEEEE {{ player_name }}
 </div>
 
+<!–– Loads question -->
+<div class="col-sm-12">
+    {{ questions[question_index]["question"] }}
+</div> 
+
+<!–– Answer form -->
+<div class="col-sm-12">
+    <form method="POST">
+        <input type="text" placeholder="answer" name="player_response" id="player_response">
+        <input type="hidden" name="question_index" id="question_index" value="{{question_index}}">
+        <button>send</button>
+    </form>
+</div>
+
+<!–– List of online users -->
+<div class="col-md-6 onlineusers">
+    {% for player in online_players %}
+        {{ player }}<br>
+    {% endfor %}
+</div>
+
+<!–– List of wrong answers -->
+<div class="col-md-6">
+    {% for answer in incorrect_answers %}
+        {{ answer }}<br>
+    {% endfor %}
+</div>
 
 
 {% endblock %}
