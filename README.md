@@ -4,10 +4,11 @@ This is my third project - an application written in Flask, with the purpose of
 demonstrating my practical Python skills.
 
 commit 1 - Initial commit.
-commit 2 - Base template added, index.html started with basic username 
-            submission leading to customised quiz.html
+commit 2 - Base template added, index.html started with basic username.
+            submission leading to customised quiz.html.
 commit 3 - Customised index.html, added style.css.
-
+commit 4 - Loaded questions data, and functions to compare user input and save incorrect answers.
+            Also added online player functionality.
 
 
 Testing
@@ -34,4 +35,4 @@ Python
 
 Flask
 
-Convert ascii image https://www.text-image.com/convert/ascii.html
+Convert html image https://www.text-image.com/convert/ascii.html
