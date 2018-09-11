@@ -44,7 +44,8 @@ def remove_duplicates(list):
 def index():
     """Start page with instructions and user name submission"""
     if request.method == "POST":
-        write_to_file("data/players_names.txt", request.form["player_name"])
+        write_to_file("data/players_names.txt", request.form["player_name"] + "\n")
+        write_to_file("data/online_players.txt", request.form["player_name"] + "\n")
         return redirect(request.form["player_name"])
     return render_template("index.html")
     
@@ -58,28 +59,49 @@ def load(player_name):
     """Question count to iterate through questions"""
     question_index = 0
     
+    """Counts user's attempts at question"""
+    question_tries = 0
     
-    if request.method =="POST":
+    """Counts number of points the user has"""
+    player_score = 0
+    
+    
+    if request.method == "POST":
         """Add user to online players list"""
-        # add_new_names("data/online_players.txt", player_name)
         write_to_file("data/online_players.txt", player_name + "\n")
         
-        """Increase the question index by hidden field in answer submission form"""
+        """Increases counts with hidden input on user's answer form""" 
         question_index = int(request.form["question_index"])
+        question_tries = int(request.form["question_tries"])
+        player_score = int(request.form["player_score"])
         
         """Get the user's answer"""
         player_response = request.form["player_response"]
         
-        """Compare user response to correct naswer"""
+        """Compare user response to correct answer"""
         if questions[question_index]["answer"] == player_response:
+            """Adds points if correct, and resets question_tries count"""
             question_index += 1
+            if question_tries == 0:
+                player_score += 3
+            elif question_tries == 1:
+                player_score += 2
+            elif question_tries == 2:
+                player_score += 1
         else:
+            """If incorrect, adds to tries count and saves incorrect answer"""
+            question_tries += 1
             add_incorrect_answer(player_name, 
                                 questions[question_index]["question"], 
                                 player_response)
+            if question_tries == 3:
+                """Moves onto next question after 3 tries"""
+                question_index += 1
+                question_tries -= 3
             
             
     incorrect_answers = get_all_data("data/incorrect_answers.txt", list)
+    
     online_players = get_all_data("data/online_players.txt", list)
     online_list = [player for player in online_players]
     no_duplicates_online_list = remove_duplicates(online_list)
@@ -89,6 +111,8 @@ def load(player_name):
                             questions=questions, 
                             online_players=online_players, 
                             question_index=question_index,
+                            question_tries=question_tries,
+                            player_score=player_score,
                             no_duplicates_online_list=no_duplicates_online_list)
     
     

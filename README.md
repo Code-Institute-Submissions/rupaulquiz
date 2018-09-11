@@ -11,6 +11,7 @@ commit 4 - Loaded questions data, and functions to compare user input and save i
             Also added online player functionality.
 commit 5 - Tested previous commit functions. Customised quiz.html.
 commit 6 - Added function to remove duplicates. 
+commit 7 - Implement scoring system, manually tested.
 
 
 Testing
@@ -27,9 +28,14 @@ when I was happy with the design.
 I manually tested the functionality added in commit 4, by adding incorrect
 answers to the questions, and checking that these and the user name I chose
 were added to the relevant .txt files in the data folder. For the  
-duplicate function added in commit 5, I added different names on the page
+duplicate function added in commit 6, I added different names on the page
 and printed the no_duplicates_online_list, and also checked that the names
 were still added to online_players.txt.
+
+To test my quiz_tries and player_score counts, I printed the scores to the
+terminal and ran through my app using different answers, to test what happened
+when I, for example, got the answer correct the first, second, and third times, 
+and also what happened when I didn't get the answer right.
 
 
 Technologies Used
