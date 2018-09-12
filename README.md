@@ -14,6 +14,7 @@ commit 6 - Added function to remove duplicates.
 commit 7 - Implement scoring system, manually tested.
 commit 8 - Added data to questions.json.
 commit 9 - Created score cards and added functionality at end of quiz.
+commit 10 -  Customised score cards, added high score.
 
 
 Testing
@@ -38,6 +39,9 @@ To test my quiz_tries and player_score counts, I printed the scores to the
 terminal and ran through my app using different answers, to test what happened
 when I, for example, got the answer correct the first, second, and third times, 
 and also what happened when I didn't get the answer right.
+
+I created an automatic test in tests.py to check whether the remove_duplicate
+function worked - 
 
 
 Technologies Used

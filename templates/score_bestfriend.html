@@ -1,6 +1,26 @@
 {% extends 'base.html' %} 
 {% block content %}
 
-BESTFRIEND
+<div class="col-8">
+    <p>
+        CONDRAGULATIONS! With a score of {{ player_score }}, you have won 
+        RuPaul's Best Friend Race! You officially have what it takes to replace 
+        Michelle Visage - because let's face it, she is starting to look like a 
+        tired ass show girl!
+    </p>
+</div>
+<div class="col-8">
+    <h1>
+        HIGH SCORE
+    </h1><br>
+    <p>The current high score is held by {{ high_score_name }} with a score of {{ high_score_score }} </p>
+</div>
+<div class="container-fluid">
+    <button type="button" class="btn btn-info">
+        <a href="{{ url_for('index') }}">
+            Try again!
+        </a>
+    </button>
+</div>
 
 {% endblock %}

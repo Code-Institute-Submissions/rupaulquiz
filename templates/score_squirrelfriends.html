@@ -1,6 +1,24 @@
 {% extends 'base.html' %} 
 {% block content %}
 
-SQUIRREL FRIENDS 
+<div class="col-8">
+    <p>
+        SHANTAY YOU STAY! With a score of {{ player_score }}, you're okay, not 
+        great, but ok.
+    </p>
+</div>
+<div class="col-8">
+    <h1>
+        HIGH SCORE
+    </h1><br>
+    <p>The current high score is held by {{ high_score_name }} with a score of {{ high_score_score }} </p>
+</div>
+<div class="container-fluid">
+    <button type="button" class="btn btn-info">
+        <a href="{{ url_for('index') }}">
+            Try again!
+        </a>
+    </button>
+</div>
 
 {% endblock %}

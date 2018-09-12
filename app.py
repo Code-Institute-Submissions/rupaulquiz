@@ -5,6 +5,11 @@ from flask import Flask, render_template, redirect, request
 
 app = Flask(__name__)
 
+"""Sets high score to zero"""
+high_score = {
+    "player_name": "Sarah",
+    "score": 0
+}
 
 def write_to_file(file, name):
     """Writes data to text files"""
@@ -98,12 +103,33 @@ def load(player_name):
                 
     """Loads the relevant score care after the last question"""
     if question_index >= len(questions):
-        if 20 < question_index <= 30:
-            return render_template("score_bestfriend.html")
-        if 10 < question_index <= 20:
-            return render_template("score_squirrelfriends.html")
-        if 0 <= question_index <= 10:
-            return render_template("score_frenemies.html")
+        if 20 < player_score <= 30:
+            if player_score >= high_score["score"]:
+                high_score["score"] = player_score
+                high_score["name"] = player_name
+            return render_template("score_bestfriend.html",
+                                    player_score=player_score,
+                                    player_name=player_name,
+                                    high_score_score=high_score["score"],
+                                    high_score_name=high_score["name"])
+        if 10 < player_score <= 20:
+            if player_score >= high_score["score"]:
+                high_score["score"] = player_score
+                high_score["name"] = player_name
+            return render_template("score_squirrelfriends.html",
+                                    player_score=player_score,
+                                    player_name=player_name,
+                                    high_score_score=high_score["score"],
+                                    high_score_name=high_score["name"])
+        if 0 <= player_score <= 10:
+            if player_score >= high_score["score"]:
+                high_score["score"] = player_score
+                high_score["name"] = player_name
+            return render_template("score_frenemies.html", 
+                                    player_score=player_score,
+                                    player_name=player_name,
+                                    high_score_score=high_score["score"],
+                                    high_score_name=high_score["name"])
             
             
     incorrect_answers = get_all_data("data/incorrect_answers.txt", list)

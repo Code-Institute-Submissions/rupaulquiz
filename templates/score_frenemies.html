@@ -1,6 +1,25 @@
 {% extends 'base.html' %} 
 {% block content %}
 
-FRIENEMIES
+<div class="col-8">
+    <p>
+        SASHAY AWAY! With a score of {{ player_score }}, you do NOT have what
+        it takes to be RuPaul's best friend. Move over Willam, there's a new 
+        queen in town.
+    </p>
+</div>
+<div class="col-8">
+    <h1>
+        HIGH SCORE
+    </h1><br>
+    <p>The current high score is held by {{ high_score_name }} with a score of {{ high_score_score }} </p>
+</div>
+<div class="container-fluid">
+    <button type="button" class="btn btn-info">
+        <a href="{{ url_for('index') }}">
+            Try again!
+        </a>
+    </button>
+</div>
 
 {% endblock %}
