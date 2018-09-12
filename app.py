@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 
 def write_to_file(file, name):
-    """Writes data to text files"""
+    """Writes data to text files""" 
     with open(file, "a") as player_list:
         player_list.writelines(name)
         
@@ -38,7 +38,7 @@ def remove_duplicates(list):
                 y += 1
         x += 1
     return list
-        
+    
     
 @app.route('/', methods=["GET", "POST"])
 def index():
@@ -54,15 +54,11 @@ def index():
 def load(player_name):
     """Load quiz questions from json file"""
     with open("data/questions.json", "r") as json_data:
-        questions= json.load(json_data)
+        questions = json.load(json_data)
     
-    """Question count to iterate through questions"""
+    """Starts count at 0"""
     question_index = 0
-    
-    """Counts user's attempts at question"""
     question_tries = 0
-    
-    """Counts number of points the user has"""
     player_score = 0
     
     
@@ -76,8 +72,8 @@ def load(player_name):
         player_score = int(request.form["player_score"])
         
         """Get the user's answer"""
-        player_response = request.form["player_response"]
-        
+        player_response = request.form["player_response"].lower()
+
         """Compare user response to correct answer"""
         if questions[question_index]["answer"] == player_response:
             """Adds points if correct, and resets question_tries count"""
@@ -98,6 +94,7 @@ def load(player_name):
                 """Moves onto next question after 3 tries"""
                 question_index += 1
                 question_tries -= 3
+        
             
             
     incorrect_answers = get_all_data("data/incorrect_answers.txt", list)
@@ -106,10 +103,12 @@ def load(player_name):
     online_list = [player for player in online_players]
     no_duplicates_online_list = remove_duplicates(online_list)
     
+    
+    
     return render_template("quiz.html", player_name=player_name, 
                             incorrect_answers=incorrect_answers, 
                             questions=questions, 
-                            online_players=online_players, 
+                            online_players=online_players,
                             question_index=question_index,
                             question_tries=question_tries,
                             player_score=player_score,

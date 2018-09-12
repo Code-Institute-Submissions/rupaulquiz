@@ -12,6 +12,7 @@ commit 4 - Loaded questions data, and functions to compare user input and save i
 commit 5 - Tested previous commit functions. Customised quiz.html.
 commit 6 - Added function to remove duplicates. 
 commit 7 - Implement scoring system, manually tested.
+commit 8 - Added data to questions.json.
 
 
 Testing
