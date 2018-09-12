@@ -13,6 +13,7 @@ commit 5 - Tested previous commit functions. Customised quiz.html.
 commit 6 - Added function to remove duplicates. 
 commit 7 - Implement scoring system, manually tested.
 commit 8 - Added data to questions.json.
+commit 9 - Created score cards and added functionality at end of quiz.
 
 
 Testing

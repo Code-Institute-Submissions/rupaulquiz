@@ -2,7 +2,7 @@ from app import *
 import unittest
 
 
-class TestStringMethods(self):
+class TestStringMethods(unittest.TestCase):
     
     def setUp(self):
         self.duplicate_list = ['Sarah', 'Sarah', 'James', 'Sarah', 'James', 'Kelly', 'Mark']
@@ -10,7 +10,7 @@ class TestStringMethods(self):
     
     def test_remove_duplicates(self):
         self.assertEqual((remove_duplicates(self.duplicate_list)), self.non_duplicate_list)
-        print("Test passes")
+        print("Test 'test_remove_duplicates' passes")
         
 
 if __name__ == '__main__':

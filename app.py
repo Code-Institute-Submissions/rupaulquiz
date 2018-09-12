@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 
 def write_to_file(file, name):
-    """Writes data to text files""" 
+    """Writes data to text files"""
     with open(file, "a") as player_list:
         player_list.writelines(name)
         
@@ -61,8 +61,8 @@ def load(player_name):
     question_tries = 0
     player_score = 0
     
-    
-    if request.method == "POST":
+    """Checks if user input and question is not the last question"""
+    if request.method == "POST" and question_index < len(questions):
         """Add user to online players list"""
         write_to_file("data/online_players.txt", player_name + "\n")
         
@@ -84,6 +84,7 @@ def load(player_name):
                 player_score += 2
             elif question_tries == 2:
                 player_score += 1
+
         else:
             """If incorrect, adds to tries count and saves incorrect answer"""
             question_tries += 1
@@ -94,7 +95,15 @@ def load(player_name):
                 """Moves onto next question after 3 tries"""
                 question_index += 1
                 question_tries -= 3
-        
+                
+    """Loads the relevant score care after the last question"""
+    if question_index >= len(questions):
+        if 20 < question_index <= 30:
+            return render_template("score_bestfriend.html")
+        if 10 < question_index <= 20:
+            return render_template("score_squirrelfriends.html")
+        if 0 <= question_index <= 10:
+            return render_template("score_frenemies.html")
             
             
     incorrect_answers = get_all_data("data/incorrect_answers.txt", list)
