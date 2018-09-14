@@ -15,6 +15,7 @@ commit 7 - Implement scoring system, manually tested.
 commit 8 - Added data to questions.json.
 commit 9 - Created score cards and added functionality at end of quiz.
 commit 10 -  Customised score cards, added high score.
+commit 11 - Created automatic tests in tests.py.
 
 
 Testing

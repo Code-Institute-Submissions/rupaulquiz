@@ -32,7 +32,7 @@ def get_all_data(file, list):
     
     
 def remove_duplicates(list):
-    """Iterates list to remove duplicates and create new list"""
+    """Iterates list to remove duplicates and return list"""
     x = 0
     while x < len(list):
         y = x + 1
@@ -76,7 +76,8 @@ def load(player_name):
         question_tries = int(request.form["question_tries"])
         player_score = int(request.form["player_score"])
         
-        """Get the user's answer"""
+        """Get the user's answer, converts to lower case so that capitalization
+            does not affect the match"""
         player_response = request.form["player_response"].lower()
 
         """Compare user response to correct answer"""
