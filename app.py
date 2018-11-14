@@ -45,7 +45,7 @@ def remove_duplicates(list):
                 y += 1
         x += 1
     return list
-
+    
 
 @app.route('/', methods=["GET", "POST"])
 def index():
@@ -132,21 +132,23 @@ def load(player_name):
                                     high_score_score=high_score["score"],
                                     high_score_name=high_score["name"])
             
-            
+    """Calls functions, then reverses lists so the most recent is first"""      
     incorrect_answers = get_all_data("data/incorrect_answers.txt", list)
+    reversed_incorrect_answers = reversed(incorrect_answers)
     
     online_players = get_all_data("data/online_players.txt", list)
     online_list = [player for player in online_players]
     no_duplicates_online_list = remove_duplicates(online_list)
+    reversed_online_list = reversed(no_duplicates_online_list)
     
     return render_template("quiz.html", player_name=player_name, 
-                            incorrect_answers=incorrect_answers, 
                             questions=questions, 
                             online_players=online_players,
                             question_index=question_index,
                             question_tries=question_tries,
                             player_score=player_score,
-                            no_duplicates_online_list=no_duplicates_online_list)
+                            reversed_online_list=reversed_online_list, 
+                            reversed_incorrect_answers=reversed_incorrect_answers)
     
     
 if __name__ == '__main__':

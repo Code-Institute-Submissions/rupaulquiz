@@ -48,14 +48,18 @@
         </div>
         <div class="col-sm-2">
             <span class="red-text">Recent players:</span><br>
-            {% for player in no_duplicates_online_list %}
-                {{ player }} <br>
+            {% for player in reversed_online_list %}
+                {% if loop.index <= 10 %}
+                    {{ player }} <br>
+                {% endif %}
             {% endfor %}
-        </div>
+        </div><br><br>
         <div class="col-sm-2">
             <span class="red-text">Recent wrong answers:</span><br>
-            {% for answer in incorrect_answers %}
-                {{ answer }} <br>
+            {% for answer in reversed_incorrect_answers %}
+                {% if loop.index <= 10 %}
+                    {{ answer }} <br>
+                {% endif %}
             {% endfor %}
         </div>
         <div class="col-sm-4">

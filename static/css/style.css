@@ -18,6 +18,10 @@ a {
     text-decoration: none;
 }
 
+label {
+    font-size: 50px;
+}
+
 .custom-row {
     padding: 5px;
     margin: 5px;
@@ -40,15 +44,6 @@ a {
 
 .blue-text {
     color: #40c8db;
-}
-
-
-/*Base.html*/
-
-.img-banner {
-    max-width: 300px;
-    height: auto;
-   
 }
 
 
@@ -87,6 +82,11 @@ a {
 
 .form-control {
     margin: 8px;
+    min-height: 100px;
+}
+
+.custom-input {
+    min-height: 80px;
 }
 
 
@@ -112,4 +112,45 @@ a {
     border: 1px solid #40c8db;
     margin: 5px;
     padding: 5px;
+}
+
+
+
+/*Media queries*/
+
+
+@media all and (min-width: 960px) {
+    /* For mobile phones: */
+    .row {
+       font-size: 20px
+    }
+    
+    .img-banner {
+        max-width: 960px;
+    }
+}
+
+
+@media all and (max-width: 959px) and (min-width: 600px) {
+    /* For mobile phones: */
+    .row {
+       font-size: 20px
+    }
+    
+    .img-banner {
+        max-width: 600px;
+    }
+}
+
+
+@media all and (max-width: 599px) and (min-width: 300px) {
+    /* For mobile phones: */
+    .row {
+       font-size: 20px
+    }
+    
+    .img-banner {
+        max-width: 300px;
+    }
+
 }
