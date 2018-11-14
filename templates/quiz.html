@@ -1,40 +1,68 @@
 {% extends 'base.html' %} 
 {% block content %}
 
-<!–– Welcome with username, loads question -->
-<div class="col-sm-6">
-    HIEEEEEE {{ player_name }}<br>
-    {{ questions[question_index]["question"] }}
-</div>
 
-<!–– Answer form -->
-<div class="col-sm-6">
-    <form method="POST">
-        <input type="text" placeholder="answer" name="player_response" id="player_response">
-        <input type="hidden" name="question_index" id="question_index" value="{{ question_index }}">
-        <input type="hidden" name="question_tries" id="question_tries" value="{{ question_tries }}">
-        <input type="hidden" name="player_score" id="player_score" value="{{ player_score }}">
-        <button>send</button>
-    </form>
-    <p>Your score is: {{ player_score }}.</p>
-    <p>Attempts at this question: {{ question_tries }}.</p>
-</div>
+<div class="container-fluid">
+    
+    
+    <!--Welcome with username -->
+    <div class="row">
+        <div class="col-sm-12 text-center">
+            <p>HIEEEEEE <span class="custom-name">{{ player_name }}</span> !</p>
+        </div>
+    </div>
 
-<!–– List of online users -->
-<div class="col-md-4 col-sm-12 onlineusers">
-    Recent players: <br>
-    {% for player in no_duplicates_online_list %}
-        {{ player }}<br>
-    {% endfor %}
-</div>
 
-<!–– List of wrong answers -->
-<div class="col-md-8 col-sm-12 wronganswers">
-    Recent wrong answers: <br>
-    {% for answer in incorrect_answers %}
-        {{ answer }}<br><br>
-    {% endfor %}
-</div>
+    <!--Loads question and answer form-->
+    <div class="row custom-row">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-3">
+            {{ questions[question_index]["question"] }}
+        </div>
+        <div class="col-sm-3">
+            <form method="POST">
+                <input type="text" placeholder="answer" name="player_response" id="player_response">
+                <input type="hidden" name="question_index" id="question_index" value="{{ question_index }}">
+                <input type="hidden" name="question_tries" id="question_tries" value="{{ question_tries }}">
+                <input type="hidden" name="player_score" id="player_score" value="{{ player_score }}">
+                <button class="btn-primary btn-send">send</button>
+            </form>
+        </div>
+        <div class="col-sm-3">
+        </div>
+    </div>
+    
+    
+    <!--Displays running points total and number of attempts-->
+    <div class="row custom-row">
+        <div class="col-sm-12 text-center">
+            <p>Your score is: <span class="blue-text">{{ player_score }}</span>.</p>
+            <p>Attempts at this question: <span class="blue-text">{{ question_tries }}</span>.</p>
+        </div>
+    </div>
 
+    <!--List of last 5 online users, and last 5 wrong answers -->
+    
+    <div class="row custom-row text-center">
+        <div class="col-sm-4">
+        </div>
+        <div class="col-sm-2">
+            <span class="red-text">Recent players:</span><br>
+            {% for player in no_duplicates_online_list %}
+                {{ player }} <br>
+            {% endfor %}
+        </div>
+        <div class="col-sm-2">
+            <span class="red-text">Recent wrong answers:</span><br>
+            {% for answer in incorrect_answers %}
+                {{ answer }} <br>
+            {% endfor %}
+        </div>
+        <div class="col-sm-4">
+        </div>
+    </div>
+
+
+</div>
 
 {% endblock %}

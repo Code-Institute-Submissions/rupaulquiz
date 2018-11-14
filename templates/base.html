@@ -2,7 +2,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-        <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}" type="text/css" />
+        <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}" type="text/css" />
         <title>RuPaul's Best Friend Race</title>
     </head>
     <body>
@@ -11,13 +11,14 @@
         </header>
         
         <!-- Welcome and instructions -->
-        <div class="row">
-            <div class="container-fluid banner">
-                <h1>This IS RuPaul's Best Friend Race!</h1>
-            </div>
+        <div class="container-fluid banner">
+            <img class="img-banner" src="{{url_for('static', filename='img/rupaullogo.jpg')}}">
+        </div>
+        
+        
+        
         
             {% block content %}
             {% endblock %}
-        </div>
     </body>
 </html>

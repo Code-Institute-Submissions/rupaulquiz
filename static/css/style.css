@@ -1,0 +1,115 @@
+/* Universal */
+
+body {
+    background-color: black;
+    color: white;
+}
+
+form {
+    color: white;
+}
+
+input {
+    margin: 5px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.custom-row {
+    padding: 5px;
+    margin: 5px;
+}
+
+
+/*Text*/
+
+.text-center {
+    text-align: center;
+}
+
+.red-text {
+    color: #ff0000;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.blue-text {
+    color: #40c8db;
+}
+
+
+/*Base.html*/
+
+.img-banner {
+    max-width: 300px;
+    height: auto;
+   
+}
+
+
+/*Buttons*/
+
+.btn-primary {
+    background-color: #ff0000;
+    border-color: #ff0000;
+    margin: 5px;
+}
+
+
+.btn-primary:hover {
+    background-color: #40c8db;
+    border-color: #40c8db;
+}
+
+
+/* Index.html */
+
+.banner {
+    margin: auto;
+    text-align: center;
+    padding: 2%;
+}
+
+.htmlimage {
+    margin: auto;
+    text-align: center;
+}
+
+.instructions {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.form-control {
+    margin: 8px;
+}
+
+
+/* Quiz.html */
+
+.wronganswers {
+    overflow: auto;
+}
+
+.onlineusers {
+    overflow: auto;
+}
+
+.custom-name {
+    color: red;
+}
+
+
+
+/*Score cards*/
+
+.high-score {
+    border: 1px solid #40c8db;
+    margin: 5px;
+    padding: 5px;
+}

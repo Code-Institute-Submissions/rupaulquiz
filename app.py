@@ -5,11 +5,13 @@ from flask import Flask, render_template, redirect, request
 
 app = Flask(__name__)
 
+
 """Sets high score to zero"""
 high_score = {
     "player_name": "Sarah",
     "score": 0
 }
+
 
 def write_to_file(file, name):
     """Writes data to text files"""
@@ -17,10 +19,10 @@ def write_to_file(file, name):
         player_list.writelines(name)
         
 
-def add_incorrect_answer(player_name, question, incorrect_answer):
+def add_incorrect_answer(player_name, incorrect_answer):
     """Adds incorrect answer to incorrect_answers.txt"""
-    write_to_file("data/incorrect_answers.txt", "{0} thinks the answer to \"{1}\" is: {2}! \n".format(
-            player_name, question, incorrect_answer))
+    write_to_file("data/incorrect_answers.txt", "{0} answered: {1}! \n".format(
+            player_name, incorrect_answer))
             
             
 def get_all_data(file, list):
@@ -43,8 +45,8 @@ def remove_duplicates(list):
                 y += 1
         x += 1
     return list
-    
-    
+
+
 @app.route('/', methods=["GET", "POST"])
 def index():
     """Start page with instructions and user name submission"""
@@ -94,9 +96,7 @@ def load(player_name):
         else:
             """If incorrect, adds to tries count and saves incorrect answer"""
             question_tries += 1
-            add_incorrect_answer(player_name, 
-                                questions[question_index]["question"], 
-                                player_response)
+            add_incorrect_answer(player_name, player_response)
             if question_tries == 3:
                 """Moves onto next question after 3 tries"""
                 question_index += 1
@@ -138,8 +138,6 @@ def load(player_name):
     online_players = get_all_data("data/online_players.txt", list)
     online_list = [player for player in online_players]
     no_duplicates_online_list = remove_duplicates(online_list)
-    
-    
     
     return render_template("quiz.html", player_name=player_name, 
                             incorrect_answers=incorrect_answers, 

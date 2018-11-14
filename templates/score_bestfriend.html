@@ -1,26 +1,42 @@
 {% extends 'base.html' %} 
 {% block content %}
 
-<div class="col-8">
-    <p>
-        CONDRAGULATIONS! With a score of {{ player_score }}, you have won 
-        RuPaul's Best Friend Race! You officially have what it takes to replace 
-        Michelle Visage - because let's face it, she is starting to look like a 
-        tired ass show girl!
-    </p>
-</div>
-<div class="col-8">
-    <h1>
-        HIGH SCORE
-    </h1><br>
-    <p>The current high score is held by {{ high_score_name }} with a score of {{ high_score_score }} </p>
-</div>
 <div class="container-fluid">
-    <button type="button" class="btn btn-info">
-        <a href="{{ url_for('index') }}">
-            Try again!
-        </a>
-    </button>
+    
+    <!--Loads answer level-->
+    <div class="row">
+        <div class="col-sm-3">
+        </div>
+        <div class="col-sm-6 text-center">
+            <p>
+                 <span class="red-text">CONDRAGULATIONS!</span> With a score of {{ player_score }}, you have won RuPaul's Best Friend Race! You officially have what it takes to replace Michelle Visage - because let's face it, she is starting to look like a tired ass show girl!
+            </p>
+        </div>
+        <div class="col-sm-3">
+        </div>
+    </div>
+    
+    
+    <!--'Try Again' button-->
+    <div class="row">
+        <div class="col-sm-12 text-center">
+            <button type="button" class="btn-primary">
+                <a href="{{ url_for('index') }}">
+                    Try again!
+                </a>
+            </button>
+        </div>
+    </div>
+    
+    
+    <!--Loads high score board-->
+    <div class="row custom-row high-score">
+        <div class="col-sm-12 text-center">
+            <p><h1 class="blue-text">HIGH SCORE</h1></p>
+             <p>The current high score is held by <span class="red-text">{{ high_score_name }}</span> with a score of <span class="red-text">{{ high_score_score }}</span> </p>
+        </div>
+    </div>
+    
 </div>
 
 {% endblock %}

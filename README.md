@@ -3,6 +3,8 @@
 This is my third project - an application written in Flask, with the purpose of 
 demonstrating my practical Python skills.
 
+Version control - 
+
 commit 1 - Initial commit.
 commit 2 - Base template added, index.html started with basic username.
             submission leading to customised quiz.html.
@@ -14,9 +16,9 @@ commit 6 - Added function to remove duplicates.
 commit 7 - Implement scoring system, manually tested.
 commit 8 - Added data to questions.json.
 commit 9 - Created score cards and added functionality at end of quiz.
-commit 10 -  Customised score cards, added high score.
+commit 10 - Customised score cards, added high score.
 commit 11 - Created automatic tests in tests.py.
-
+commit 12 - Tidied up code and layout.
 
 Testing
 

@@ -1,534 +1,167 @@
-(Sarah) - 1002
-
-(Sarah) - 1002
-
-(Jones) - s
- - How old is RuPaul? 
-(Jones) - d
- - How old is RuPaul? 
-(Jones) - How old is RuPaul? - l
- 
-Jones thinks the answer to How old is RuPaul? is l
-! 
-Sarah thinks the answer to "How old is RuPaul?" is s
-! 
-J thinks the answer to "How old is RuPaul?" is "msms
-"! 
-J thinks the answer to "How old is RuPaul?" is: mdmd
-\! 
-J thinks the answer to "How old is RuPaul?" is: x
-\! 
-osos thinks the answer to "How old is RuPaul?" is: skk
-! 
-Sarah thinks the answer to "How many series of RPDR?" is: dkdkd! 
-Sarah thinks the answer to "How many series of RPDR?" is: mddmd! 
-Sarah thinks the answer to "How many series of RPDR?" is: mddmd! 
-Sarah thinks the answer to "How many series of RPDR?" is: mddmd! 
-Sarah thinks the answer to "How many series of RPDR?" is: mddmd! 
-Sarah thinks the answer to "How many series of RPDR?" is: ddjd! 
-Sarah thinks the answer to "How many series of RPDR?" is: kdkdd! 
-James thinks the answer to "How many series of All Stars?" is: sjsjs! 
-James thinks the answer to "How many series of All Stars?" is: sjsjs! 
-James thinks the answer to "How many series of All Stars?" is: sjsjs! 
-James thinks the answer to "How many series of RPDR?" is: djdjd! 
-m thinks the answer to "So for your first question, we're going to have an easy one. How old is RuPaul?" is: rupaul charles! 
-m thinks the answer to "So for your first question, we're going to have an easy one. How old is RuPaul?" is: rupaul charles! 
-2 thinks the answer to "So for your first question, we're going to have an easy one. How old is RuPaul?" is: rupaul charles! 
-m thinks the answer to "So for your first question, we're going to have an easy one. Which artist's music has appeared in the most lip syncs?" is: rupaul! 
-m thinks the answer to "So for your first question, we're going to have an easy one. Which artist's music has appeared in the most lip syncs?" is: rupaul! 
-m thinks the answer to "So for your first question, we're going to have an easy one. Which artist's music has appeared in the most lip syncs?" is: rupaul! 
-m thinks the answer to "So for your first question, we're going to have an easy one. Which artist's music has appeared in the most lip syncs?" is: rupaul! 
-d thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: rupaul! 
-d thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: lashawna beyond! 
-d thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: s! 
-d thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: s! 
-d thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: s! 
-d thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: s! 
-d thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: t! 
-d thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: n! 
-d thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: b! 
-d thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: n! 
-d thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: n! 
-d thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: n! 
-d thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: n! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-, thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-, thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-, thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-, thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-, thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-, thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-, thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-, thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-, thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-, thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-, thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-, thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-, thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-, thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-, thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-, thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-, thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-, thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-, thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-, thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-, thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-, thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-, thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-, thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-, thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-, thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-, thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-, thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-, thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-, thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-, thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-, thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-, thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-, thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-, thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-k thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-k thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-k thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-k thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: rupaul! 
-k thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: rupaul charles! 
-k thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: rupaul charles! 
-k thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-k thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-k thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-k thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-k thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-k thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-k thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-k thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-k thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-k thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-k thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-k thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-k thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-k thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-k thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-k thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-k thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-k thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-k thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-k thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-k thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-k thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-k thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-k thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-k thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: d! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-rupaul andre charles thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-rupaul andre charles thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-rupaul andre charles thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-, thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-, thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-, thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-, thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-, thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-, thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-, thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-, thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-, thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-, thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-, thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-, thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-, thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-, thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-, thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-, thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-, thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-, thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-, thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-, thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-, thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-, thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-, thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-, thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-, thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-, thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-, thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-, thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-, thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-, thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-, thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-, thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-, thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-, thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-, thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-, thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-, thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-, thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: rupaul charles! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-m thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-mama thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-mama thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-mama thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-mama thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: 1999! 
-mm thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: sds! 
-mm thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-mm thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-mm thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-mm thinks the answer to "So for your first question, we're going to have an easy one. What is RuPaul's full name?" is: ! 
-mm thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-mm thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-mm thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-mm thinks the answer to "Now things are getting a little trickier! During RuPaul's Drag Race, queens are encouraged to use their charisma, uniqueness, nerve and WHAT to snatch that crown?" is: ! 
-mm thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-mm thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-mm thinks the answer to "We all know how much Season 10's winner, Aquaria, wanted to be RuPaul's BFF, but who is her dragmother?" is: ! 
-mm thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-mm thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-mm thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-mm thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-mm thinks the answer to "Thanks to RuPaul's shameless self-advertising You've probably had the song stuck in your head for days, so it should be a breeze completing the following lyric, "Don't be jealous of my ______"?" is: ! 
-mm thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-mm thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-mm thinks the answer to "Now it's time for everyone's favourite - Snatch Game! Who impersonated Judge Judy with arguably the best performance on Snatch Game EVER?" is: ! 
-mm thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-mm thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-mm thinks the answer to "Who first said "This is NOT RuPaul's Best Friend Race"?" is: ! 
-mm thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-mm thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-mm thinks the answer to "The library is open! Complete the phrase, "No Tea, No Shade, No pink ________"?" is: ! 
-mm thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-mm thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-mm thinks the answer to "It's time for a shock elimination! During which season of All Stars did BenDeLaCreme eliminate herself?" is: ! 
-mm thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-mm thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-mm thinks the answer to "Know your herstory! What year was the first season of RPDR aired on TV?" is: ! 
-mm thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-mm thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
-mm thinks the answer to "The time has come to LIPSYNC FOR. YOUR. LIFE! Well, not really, but RuPaul's friendship is much more important. This is your final question, so make it count. Who's music has been lip-synced to the most? " is: ! 
+s m! 
+s sdsds! 
+s sdsds! 
+s answered: sdsds! 
+s answered: ss! 
+s answered: cx! 
+s answered: s! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: ! 
+s answered: asa! 
+s answered: asa! 
+s answered: asa! 
+james answered: s! 
+james answered: x! 
+james answered: d! 
+james answered: s! 
+james answered: z! 
+james answered: zx! 
+james answered: a! 
+james answered: a! 
+james answered: a! 
+james answered: a! 
+Sarah answered: a! 
+Sarah answered: s! 
+Sarah answered: s! 
+Sarah answered: s! 
+Sarah answered: s! 
+Sarah answered: s! 
+Sarah answered: w! 
+Sarah answered: s! 
+Sarah answered: s! 
+Sarah answered: s! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Sarah answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
+Jane answered: ! 
