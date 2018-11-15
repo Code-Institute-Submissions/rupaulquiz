@@ -42,19 +42,10 @@
     </div>
 
     <!--List of last 5 online users, and last 5 wrong answers -->
-    
     <div class="row custom-row text-center">
-        <div class="col-sm-4">
+        <div class="col-sm-3">
         </div>
-        <div class="col-sm-2">
-            <span class="red-text">Recent players:</span><br>
-            {% for player in reversed_online_list %}
-                {% if loop.index <= 10 %}
-                    {{ player }} <br>
-                {% endif %}
-            {% endfor %}
-        </div><br><br>
-        <div class="col-sm-2">
+        <div class="col-sm-3">
             <span class="red-text">Recent wrong answers:</span><br>
             {% for answer in reversed_incorrect_answers %}
                 {% if loop.index <= 10 %}
@@ -62,7 +53,15 @@
                 {% endif %}
             {% endfor %}
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-3">
+            <span class="red-text">Recent players:</span><br>
+            {% for player in reversed_online_list %}
+                {% if loop.index <= 10 %}
+                    {{ player }} <br>
+                {% endif %}
+            {% endfor %}
+        </div><br><br>
+        <div class="col-sm-3">
         </div>
     </div>
 
