@@ -20,7 +20,7 @@ A live demo can be found here: https://slc-project-three.herokuapp.com/
 * [Flask (1.0.2)](http://flask.pocoo.org/) - to deploy my web application.
 * [Bootstrap (4.1.3)](https://getbootstrap.com/) - to build a responsive and visually appealing site.
 * [HTML](https://en.wikipedia.org/wiki/HTML) - the language used to write and create the web app.
-* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - the language used to customise and present the web app.
+* [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - the language used to customise and present the web app, including CSS3 media queries.
 * [JSON](https://www.json.org/) - to easily store and transmit the quiz questions as a data object.
 * [ASCII](https://www.text-image.com/convert/ascii.html) - to convert an image into text, add a 'retro' feel to the project.
 
@@ -48,6 +48,7 @@ I also wanted to encorporate the following user stories:
 * The question index count - this allows users to see how they are progressing through the quiz, by increasing the count with input from a hidden field when the user submitted an answer.
 * The question attempts count - this shows a user how many times they have attempted a question, so they know how many attempts they have left. This was also achieved by increasing the count with a hidden field when the user submitted a question, but by using an 'if' statement, I limited the attempts at each question to 3.
 * Score cards - these are customised depending on how many points the user has achieved, and are implemented using an 'if' statement that takes the players score and returns the corresponding score card.
+* Use of CSS3 Media queries - to make the app responsive to different screen sizes.
 
 
 ### Deployment: ### 
@@ -106,3 +107,5 @@ Before submitting my project, I ran through the app to test that everything was 
 12.  Tidied up code and layout.
 13.  Added reversed online user and incorrect answer lists, to list last 10 responses only. Added media queries.
 14. Updated README file. Final touches to code and Heroku deployment, including addition of requirements.txt and Procfile.
+15. Updated Procfile to address bug.
+16. Final commit. Diabled debug mode. Added alt attribute to image.

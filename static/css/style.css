@@ -55,7 +55,6 @@ label {
     margin: 5px;
 }
 
-
 .btn-primary:hover {
     background-color: #40c8db;
     border-color: #40c8db;
@@ -105,7 +104,6 @@ label {
 }
 
 
-
 /*Score cards*/
 
 .high-score {
@@ -113,7 +111,6 @@ label {
     margin: 5px;
     padding: 5px;
 }
-
 
 
 /*Media queries*/
@@ -130,7 +127,6 @@ label {
     }
 }
 
-
 @media all and (max-width: 959px) and (min-width: 600px) {
     /* For mobile phones: */
     .row {
@@ -142,7 +138,6 @@ label {
     }
 }
 
-
 @media all and (max-width: 599px) and (min-width: 300px) {
     /* For mobile phones: */
     .row {
@@ -152,5 +147,4 @@ label {
     .img-banner {
         max-width: 300px;
     }
-
 }
